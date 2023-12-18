@@ -1,0 +1,14 @@
+{
+    "scope": "label",
+    "scopeIds": [
+      1,
+      2,
+      3
+    ],
+    "roles": [
+      "admin"
+    ],
+    "email": "user@example.com",
+    "username": "my-label-admin",
+    "notes": "This user has admin access to 3 record labels"
+  }

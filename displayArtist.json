@@ -1,0 +1,9 @@
+{
+    "id": 0,
+    "artistName": "string",
+    "artisticRole": "MainArtist",
+    "contributorRoles": [
+      "Soloist"
+    ],
+    "fullName": "string"
+  }

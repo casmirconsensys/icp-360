@@ -1,0 +1,35 @@
+{
+    "id": 99,
+    "username": "lgapidemo",
+    "firstName": "Jane",
+    "lastName": "Demo",
+    "company": "LabelGrid",
+    "companyWebsite": "https://labelgrid.com",
+    "contacts": [
+      {}
+    ],
+    "whitelabelOptions": {
+      "logoWide": {
+        "files": {}
+      },
+      "logoSquare": {
+        "file": {}
+      },
+      "style": {
+        "theme": {}
+      }
+    },
+    "enabled": false,
+    "verified": false,
+    "referrer": "labelgrid",
+    "lastlogin": "2017-12-31 12:11:12",
+    "registration_time": "2017-12-31 12:11:12",
+    "userWebPath": "/lgapidemo/",
+    "subscription": {
+      "id": "demosub_999999999",
+      "planId": "pro-yearly",
+      "status": "active",
+      "inTrial": false,
+      "expirationDate": "2024-10-31"
+    }
+  }

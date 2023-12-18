@@ -1,0 +1,89 @@
+{
+    "id": 0,
+    "labelId": 99,
+    "titleType": "single",
+    "cat": "LGDEMO001",
+    "title": "This is my title",
+    "artists": [
+      {
+        "id": 0,
+        "artistName": "string",
+        "artisticRole": "MainArtist",
+        "contributorRoles": [
+          null
+        ],
+        "fullName": "string"
+      }
+    ],
+    "description": "This is my title",
+    "releaseDate": "2024-01-23",
+    "frontCover": "http://example.com",
+    "barcodeNumber": "0123456789012",
+    "genre1": "string",
+    "genre2": "string",
+    "genre3": "string",
+    "pline": "string",
+    "cline": "string",
+    "preferredLocalization": "string",
+    "tracks": [
+      {}
+    ],
+    "tags": [
+      "instrumental"
+    ],
+    "dspLinks": [
+      {}
+    ],
+    "extendedMetadata": {
+      "title": {
+        "en": {},
+        "yue-Hant": {},
+        "zh-Hans": {},
+        "zh-Hant": {},
+        "da": {},
+        "nl": {},
+        "et": {},
+        "fr": {},
+        "de": {},
+        "it": {},
+        "ja-Jpan": {},
+        "ko": {},
+        "es": {},
+        "es-419": {},
+        "th": {},
+        "mg": {},
+        "pcm": {},
+        "hi": {},
+        "vi": {},
+        "pt": {},
+        "lg": {},
+        "mk": {},
+        "ru": {}
+      },
+      "description": {
+        "en": {},
+        "yue-Hant": {},
+        "zh-Hans": {},
+        "zh-Hant": {},
+        "da": {},
+        "nl": {},
+        "et": {},
+        "fr": {},
+        "de": {},
+        "it": {},
+        "ja-Jpan": {},
+        "ko": {},
+        "es": {},
+        "es-419": {},
+        "th": {},
+        "mg": {},
+        "pcm": {},
+        "hi": {},
+        "vi": {},
+        "pt": {},
+        "lg": {},
+        "mk": {},
+        "ru": {}
+      }
+    }
+  }

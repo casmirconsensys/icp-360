@@ -1,0 +1,20 @@
+{
+    "targetDspKey": "all",
+    "territories": [
+      {
+        "territory": "WW",
+        "takedown": false,
+        "clearedForSale": true,
+        "preferredLocalization": {
+          "localization": "en"
+        },
+        "preorder": {
+          "enabled": true,
+          "type": "standard",
+          "previewsEnabled": true,
+          "startDate": "2019-08-24",
+          "endDate": "2019-08-24"
+        }
+      }
+    ]
+  }

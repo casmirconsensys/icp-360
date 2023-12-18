@@ -1,0 +1,27 @@
+{
+    "id": 99,
+    "name": "LG Recordings",
+    "shortName": "LG",
+    "parentName": "LG Recordings",
+    "primaryGenre": 1,
+    "images": {
+      "default": {
+        "url": "http://example.com",
+        "filename": "string"
+      },
+      "darkmode": {
+        "url": "http://example.com",
+        "filename": "string"
+      },
+      "lightmode": {
+        "url": "http://example.com",
+        "filename": "string"
+      }
+    },
+    "bioShort": "This is a short bio",
+    "bioLong": "This is a long bio....",
+    "isrcBase": "QZ-RZZ-00-00000",
+    "active": true,
+    "defaultCopyrightName": "Plush Recordings",
+    "defaultPublisherName": "Plush Recordings"
+  }
